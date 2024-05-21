@@ -70,7 +70,7 @@
       },
       {
         "name": "Register with the Command",
-        "description": "In the message box, type !join-lwd and hit enter.",
+        "description": "In the message box, type !join_lwd and hit enter.",
         "icon": "/assets/images/ts.png"
       },
       {
